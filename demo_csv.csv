@@ -1,0 +1,11 @@
+instance,latitude,longitude
+demo.do.prometheus.io:9093,25.2653471,55.2924914
+demo.do.prometheus.io:9100,25.2653471,55.2924914
+demo.do.prometheus.io:3000,-37.8142176,144.9631608
+demo.do.prometheus.io:8996,-37.8142176,144.9631608
+demo.do.prometheus.io:8997,43.6534817,-79.3839347
+demo.do.prometheus.io:8998,43.6534817,-79.3839347
+demo.do.prometheus.io:8999,47.4979937,19.0403594
+demo.do.prometheus.io:9090,47.4979937,19.0403594
+http://localhost:9100,33.7489924,-84.3902644
+localhost:2019,33.7489924,-84.3902644
